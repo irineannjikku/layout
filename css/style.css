@@ -1,0 +1,140 @@
+h1
+{
+ background-color: gray;
+ color:black;
+ text-align:center;
+ margin:0 10px;
+ padding:10px;
+
+}
+.background
+{
+    background-color: rgb(230, 230, 247);
+    height: 800px;
+}
+.layout
+{
+   border: solid black 5px;
+   text-align: center;
+   width:200px;
+   height:100px;
+   margin-left:10px;
+   padding-top:10px;
+   margin-top: 20px;
+   background-color:rgb(149, 161, 78);
+}
+.layout1
+{
+    border: solid black 5px;
+   text-align: center;
+   width:200px;
+   height:100px;
+   margin-left:10px;
+   padding-top:10px;
+   margin-top: 20px;
+    background-color:aqua;
+}
+.layout2
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(233, 20, 20);
+}
+.layout3
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(106, 63, 155);
+}
+.layout4
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(86, 185, 107);
+}
+.layout5
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(31, 100, 133);
+}
+.layout6
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(119, 106, 129);
+}
+.layout7
+{
+border: solid black 5px;
+text-align: center;
+width:200px;
+height:100px;
+margin-left:10px;
+padding-top:10px;
+margin-top: 20px;
+background-color: rgb(164, 204, 146);
+}
+.layout8
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(107, 43, 14);
+}
+.layout9
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(127, 129, 127);
+}
+.layout10
+{
+    border: solid black 5px;
+    text-align: center;
+    width:200px;
+    height:100px;
+    margin-left:10px;
+    padding-top:10px;
+    margin-top: 20px;
+    background-color: rgb(97, 83, 133);
+}
+.box
+{
+    margin-top: 20px;
+    display: flex;
+}
